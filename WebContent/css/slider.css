@@ -1,0 +1,48 @@
+
+
+
+#slider{
+	width:500px;
+	top:100px;
+	position:fixed;
+	z-index:99;
+}
+   
+#header{ 
+	width:260px;
+	height:520px;
+	position:absolute; 
+	right:0px; 
+	border:1px solid #d8d8d8;
+	margin-left:40px;
+	padding:20px 40px;
+	border-radius:3px;
+	box-shadow: 0 0 8px gray;
+}
+
+
+#sidebar{
+	position:absolute;
+	top:180px;
+	left:113px;
+	box-shadow: 0 0 8px gray;
+}
+
+#sidebar1{
+	position:absolute;
+	top:180px;
+	left:113px;
+	box-shadow: 0 0 8px gray;
+}
+
+
+
+/*--------------------------------------
+		Advertisement div
+----------------------------------------*/
+.formget{
+	width:300px;
+	margin-top: 65px;
+	margin-left: 57px;
+	float: left;
+	}

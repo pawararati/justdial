@@ -1,0 +1,38 @@
+
+
+
+#slider1{
+	width:500px;
+	top:100px;
+	position:fixed;
+	z-index:99;
+}
+   
+
+
+
+#sidebar1{
+	position:absolute;
+	top:360px;
+	left:255px;
+	box-shadow: 0 0 8px gray;
+}
+
+#sidebar2{
+	position:absolute;
+	top:180px;
+	left:113px;
+	box-shadow: 0 0 8px gray;
+}
+
+
+
+/*--------------------------------------
+		Advertisement div
+----------------------------------------*/
+.formget{
+	width:300px;
+	margin-top: 65px;
+	margin-left: 57px;
+	float: left;
+	}
